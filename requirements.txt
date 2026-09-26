@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+catboost
+torch
+pennylane
+pennylane-lightning
+xgboost
+lightgbm
